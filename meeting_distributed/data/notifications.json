@@ -1,0 +1,502 @@
+[
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:48:47"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:48:51"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:49:16"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:49:20"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:49:59"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:50:05"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:50:18"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:50:25"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:50:31"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:50:44"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:50:46"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:51:03"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:51:07"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:51:13"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:51:19"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:51:29"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:51:38"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:51:42"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:52:34"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:52:46"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:52:58"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:53:03"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:53:22"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:53:28"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:53:34"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:53:48"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:54:44"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:55:02"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:55:11"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:55:15"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:55:32"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:55:38"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:55:39"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:55:50"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:55:52"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:56:00"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:56:26"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:56:32"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:56:37"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:56:42"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:56:47"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:56:51"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:56:57"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:57:04"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:57:06"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:57:24"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:57:40"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:57:50"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:57:53"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:57:59"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:58:03"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:58:09"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:58:18"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:58:31"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:58:33"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:58:44"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:58:46"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:59:04"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:59:09"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:59:13"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 22:59:41"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 22:59:46"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:00:02"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:00:15"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:01:42"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:01:48"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:03:44"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:03:51"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:05:43"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:05:50"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:06:37"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:06:48"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:07:06"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:07:20"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:07:28"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:07:33"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:07:36"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:07:43"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:07:46"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:07:56"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:07:58"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:08:18"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-09 23:08:20"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-09 23:08:25"
+    },
+    {
+        "action": "switch-fan-on",
+        "message": "Room temperature is above the user's desired temperature.\nRoom temperature: 26.0\u00b0C\nDesired temperature: 18.1\u00b0C\nFan switched ON for thermal comfort.",
+        "timestamp": "2026-07-14 21:53:05"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 21:54:21"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 21:54:28"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 21:55:32"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 21:55:39"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 22:02:57"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 22:03:32"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 22:03:49"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 22:03:55"
+    },
+    {
+        "action": "switch-fan-on",
+        "message": "Room temperature is above the user's desired temperature.\nRoom temperature: 27.0\u00b0C\nDesired temperature: 18.0\u00b0C\nFan switched ON for thermal comfort.",
+        "timestamp": "2026-07-14 22:07:14"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 22:07:21"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 22:07:38"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 22:14:09"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 22:14:15"
+    },
+    {
+        "action": "switch-light-on",
+        "message": "Meeting room occupied.\nLights switched ON.",
+        "timestamp": "2026-07-14 22:19:15"
+    },
+    {
+        "action": "switch-light-off",
+        "message": "Meeting room empty.\nLights switched OFF.",
+        "timestamp": "2026-07-14 22:19:21"
+    }
+]

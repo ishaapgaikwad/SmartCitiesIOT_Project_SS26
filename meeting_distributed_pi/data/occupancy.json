@@ -1,0 +1,11 @@
+{
+    "occupied": false,
+    "light": false,
+    "fan": true,
+    "temperature": 26.0,
+    "humidity": 53.0,
+    "air_quality": "Good",
+    "air_quality_value": 14,
+    "desired_temperature": 18.1,
+    "rotary_value": 6
+}

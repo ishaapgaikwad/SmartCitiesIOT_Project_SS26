@@ -1,0 +1,15 @@
+import time
+import grovepi_driver as grovepi
+
+grovepi.init()
+
+grovepi.pinMode(7, grovepi.OUTPUT)
+
+while True:
+    print("ON")
+    grovepi.digitalWrite(7, grovepi.HIGH)
+    time.sleep(1)
+
+    print("OFF")
+    grovepi.digitalWrite(7, grovepi.LOW)
+    time.sleep(1)

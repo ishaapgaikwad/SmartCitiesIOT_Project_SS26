@@ -1,0 +1,20 @@
+2026-07-04 18:37:55,591 INFO     using search: breadth_first_search
+2026-07-04 18:37:55,592 INFO     using heuristic: None
+2026-07-04 18:37:55,592 INFO     Parsing Domain C:\Users\ishap\OneDrive\Desktop\meeting_distributed\meeting_distributed\planner\domain.pddl
+2026-07-04 18:37:55,593 INFO     Parsing Problem C:\Users\ishap\OneDrive\Desktop\meeting_distributed\meeting_distributed\data\problem.pddl
+2026-07-04 18:37:55,594 INFO     8 Predicates parsed
+2026-07-04 18:37:55,594 INFO     4 Actions parsed
+2026-07-04 18:37:55,594 INFO     0 Objects parsed
+2026-07-04 18:37:55,595 INFO     0 Constants parsed
+2026-07-04 18:37:55,595 INFO     Grounding start: meeting-room-problem
+2026-07-04 18:37:55,595 INFO     Relevance analysis removed 0 facts
+2026-07-04 18:37:55,595 INFO     Grounding end: meeting-room-problem
+2026-07-04 18:37:55,595 INFO     4 Variables created
+2026-07-04 18:37:55,595 INFO     2 Operators created
+2026-07-04 18:37:55,595 INFO     Search start: meeting-room-problem
+2026-07-04 18:37:55,595 INFO     Goal reached. Start extraction of solution.
+2026-07-04 18:37:55,595 INFO     2 Nodes expanded
+2026-07-04 18:37:55,595 INFO     Search end: meeting-room-problem
+2026-07-04 18:37:55,595 INFO     Search time: 0.0
+2026-07-04 18:37:55,595 INFO     Plan length: 1
+2026-07-04 18:37:55,597 INFO     validate could not be found on the PATH so the plan can not be validated.

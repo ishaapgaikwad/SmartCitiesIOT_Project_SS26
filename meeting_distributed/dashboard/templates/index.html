@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Smart Meeting Room Dashboard</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+
+</head>
+
+
+<body>
+
+
+<header>
+
+    <div>
+
+        <h1>Smart Meeting Room Assistant</h1>
+
+        <p>
+            IoT Monitoring and AI Planning Dashboard
+        </p>
+
+    </div>
+
+
+    <div id="connection" class="online">
+        ● LIVE
+    </div>
+
+</header>
+
+
+<nav>
+
+    <button
+        id="dashboard-tab"
+        class="nav-button active-tab"
+        onclick="showTab('dashboard')"
+    >
+        Dashboard
+    </button>
+
+
+    <button
+        id="notifications-tab"
+        class="nav-button"
+        onclick="showTab('notifications')"
+    >
+        Notifications
+
+        <span id="notification-count" class="badge">
+            0
+        </span>
+
+    </button>
+
+</nav>
+
+
+<main>
+
+
+    <!-- DASHBOARD TAB -->
+
+
+    <section
+        id="dashboard"
+        class="tab-content active-content"
+    >
+
+
+        <h2>Environment</h2>
+
+
+        <div class="grid">
+
+
+            <div class="card">
+
+                <div class="label">
+                    Occupancy
+                </div>
+
+                <div
+                    id="occupied"
+                    class="value"
+                >
+                    --
+                </div>
+
+                <div class="subvalue">
+                    PIR motion sensor
+                </div>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <div class="label">
+                    Room Temperature
+                </div>
+
+                <div
+                    id="temperature"
+                    class="value"
+                >
+                    --
+                </div>
+
+                <div class="subvalue">
+                    DHT temperature sensor
+                </div>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <div class="label">
+                    Desired Temperature
+                </div>
+
+                <div
+                    id="desired_temperature"
+                    class="value"
+                >
+                    --
+                </div>
+
+                <div class="subvalue">
+                    Rotary sensor preference
+                </div>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <div class="label">
+                    Humidity
+                </div>
+
+                <div
+                    id="humidity"
+                    class="value"
+                >
+                    --
+                </div>
+
+                <div class="subvalue">
+                    Relative humidity
+                </div>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <div class="label">
+                    Air Quality
+                </div>
+
+                <div
+                    id="air_quality"
+                    class="value"
+                >
+                    --
+                </div>
+
+                <div
+                    id="air_quality_value"
+                    class="subvalue"
+                >
+                    Raw sensor value: --
+                </div>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <div class="label">
+                    Rotary Sensor
+                </div>
+
+                <div
+                    id="rotary_value"
+                    class="value"
+                >
+                    --
+                </div>
+
+                <div class="subvalue">
+                    Analog reading (0–1023)
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+
+        <h2>Physical Actuators</h2>
+
+
+        <div class="grid actuator-grid">
+
+
+            <div class="card actuator-card">
+
+                <div class="label">
+                    Meeting Room Light
+                </div>
+
+
+                <div
+                    id="led-visual"
+                    class="led off"
+                >
+
+                    <div class="led-bulb"></div>
+
+                    <div class="led-base"></div>
+
+                </div>
+
+
+                <div
+                    id="light"
+                    class="value"
+                >
+                    --
+                </div>
+
+
+                <div class="subvalue">
+                    Controlled by AI planner
+                </div>
+
+            </div>
+
+
+
+            <div class="card actuator-card">
+
+                <div class="label">
+                    Ventilation Fan
+                </div>
+
+
+                <div class="fan-container">
+
+                    <div
+                        id="fan-visual"
+                        class="fan"
+                    >
+
+                        <div class="blade blade1"></div>
+
+                        <div class="blade blade2"></div>
+
+                        <div class="blade blade3"></div>
+
+                        <div class="blade blade4"></div>
+
+                        <div class="fan-center"></div>
+
+                    </div>
+
+                </div>
+
+
+                <div
+                    id="fan"
+                    class="value"
+                >
+                    --
+                </div>
+
+
+                <div class="subvalue">
+                    Controlled by AI planner
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- NOTIFICATIONS TAB -->
+
+
+    <section
+        id="notifications"
+        class="tab-content"
+    >
+
+
+        <div class="notification-header">
+
+            <div>
+
+                <h2>Live Notifications</h2>
+
+                <p>
+                    Planner actions, alerts and room events
+                </p>
+
+            </div>
+
+
+            <button
+                class="clear-button"
+                onclick="clearNotificationView()"
+            >
+                Clear View
+            </button>
+
+        </div>
+
+
+        <div id="notification-list">
+
+            <div class="empty-notifications">
+
+                Waiting for notifications...
+
+            </div>
+
+        </div>
+
+
+    </section>
+
+
+</main>
+
+
+<script
+    src="{{ url_for('static', filename='js/dashboard.js') }}"
+></script>
+
+
+</body>
+
+</html>
