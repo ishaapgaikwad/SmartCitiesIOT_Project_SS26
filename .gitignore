@@ -1,0 +1,14 @@
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Logs
+**/logs/
+
+# Zip files
+**/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
